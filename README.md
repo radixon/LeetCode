@@ -7,4 +7,4 @@ You may assume that each input would have exactly one solution, and you may not 
 You can return the answer in any order.
 
 2 Contains Duplicate
-Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+Given an integer array nums, return true if any value appears at least twice in the array. And return false if every element is distinct.
