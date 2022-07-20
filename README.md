@@ -13,6 +13,5 @@ Given an integer array nums, return true if any value appears at least twice in 
 
 ## Product of Array Except Self
 
-Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i]. <br />
-The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer. <br />
+Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].  The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer. <br />
 You must write an algorithm that runs in O(n) time and without using the division operation.
